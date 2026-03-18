@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter (just in case)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+
+video_sample_1.mov
